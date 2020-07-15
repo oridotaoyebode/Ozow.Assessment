@@ -4,9 +4,6 @@ using Ozow.Assessment.GameOfLife.Enums;
 using Ozow.Assessment.GameOfLife.Game;
 using Ozow.Assessment.GameOfLife.Models;
 using Ozow.Assessment.UnitTests.Mock;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using Xunit;
 
 namespace Ozow.Assessment.UnitTests

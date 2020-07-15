@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <ProjectName>Ozow.Assessment.UnitTests</ProjectName>
+  <ProjectName>Ozow.Asessment.Core</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
-  <ProjectType>Test</ProjectType>
-  <ProjectGuid>62744f64-12a9-4f0f-a314-2fd1076eafdf</ProjectGuid>
-  <FullPath>C:\Users\User\source\repos\Ozow.Asessment.Core\Ozow.Assessment.UnitTests\Ozow.Assessment.UnitTests.csproj</FullPath>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>8c510a8f-2792-450a-ae6a-31f7f3927cba</ProjectGuid>
+  <FullPath>C:\Users\User\source\repos\Ozow.Asessment.Core\Ozow.Asessment.Core\Ozow.Asessment.Core.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
     <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\User\source\repos\Ozow.Asessment.Core\.sonarqube\out\1\FilesToAnalyze.txt" />
   </AnalysisResults>
   <AnalysisSettings>
-    <Property Name="sonar.cs.roslyn.reportFilePath">C:\Users\User\source\repos\Ozow.Asessment.Core\Ozow.Assessment.UnitTests\bin\Debug\netcoreapp3.1\Ozow.Assessment.UnitTests.dll.RoslynCA.json|C:\Users\User\source\repos\Ozow.Asessment.Core\Ozow.Assessment.UnitTests\bin\Debug\netcoreapp3.1\Ozow.Assessment.UnitTests.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.roslyn.reportFilePath">C:\Users\User\source\repos\Ozow.Asessment.Core\Ozow.Asessment.Core\bin\Debug\netcoreapp3.1\Ozow.Asessment.Core.dll.RoslynCA.json|C:\Users\User\source\repos\Ozow.Asessment.Core\Ozow.Asessment.Core\bin\Debug\netcoreapp3.1\Ozow.Asessment.Core.dll.RoslynCA.json</Property>
     <Property Name="sonar.cs.analyzer.projectOutPath">C:\Users\User\source\repos\Ozow.Asessment.Core\.sonarqube\out\1</Property>
   </AnalysisSettings>
   <Configuration>Debug</Configuration>

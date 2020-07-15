@@ -2,5 +2,5 @@ projectKey=ozowdevassessment
 serverUrl=http://localhost:9000
 serverVersion=8.2.0.32929
 dashboardUrl=http://localhost:9000/dashboard?id=ozowdevassessment
-ceTaskId=AXNI4Dvu6OhBHuKLleJf
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXNI4Dvu6OhBHuKLleJf
+ceTaskId=AXNTwJIj6OhBHuKLleJh
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXNTwJIj6OhBHuKLleJh
